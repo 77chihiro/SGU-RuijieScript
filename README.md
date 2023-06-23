@@ -17,4 +17,10 @@
 如果你不明白或不接受以上内容，请勿使用SGUClient，并且立即将SGUClient及其相关资料从你的设备中移除。
 
 ## 开干
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+* **你需要：**
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.一台可以刷入openwrt的路由器
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.一根网线
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.准备好软件winscp
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.一个linux系统
+
+## 编译
