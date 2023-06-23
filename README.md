@@ -2,7 +2,7 @@
 感谢工信部对大学生们的监督，国内的校园网有了一人一号的限制。在某些企业的变本加厉之下，甚至已经演变为了一设备一号。将校园网与设备进行绑定吃相属实。。。（自行脑补）。但是我的网络设备有点多所以我需要一个满足我需求的网络环境。
 
 ## 关于
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;大学也快结束了还是六点东西证明我来过吧。记得初入校门我就对学校运营商的一人一号一终端的上网方式感到十分的不满。在此感谢[dafeiyoung](https://github.com/dafeiyoung)提供的[sguclient](https://github.com/dafeiyoung/sguclient)让我有了愉快的网络体验。然而不幸的是在我使用[sguclient](https://github.com/dafeiyoung/sguclient)两年之后学校运营商竟然花费一辆雅阁更新了学校的拨号系统（就是要割大学生的韭菜）。很显然这种行为在我眼里是无法容忍的，咱主打的就是道高一尺魔高一丈。一款用于openwrt（路由器）的程序就此诞生`SGU-RuijieScript`就此诞生 注：本人半个懒癌患者只为高效的解决网络环境（当然各位客官食用起来是否高效我就不得而知了）、同时这也是本人的处女作，所以以下内容不建议小白食用。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;大学也快结束了还是六点东西证明我来过吧。记得初入校门我就对学校运营商的一人一号一终端的上网方式感到十分的不满。在此感谢[dafeiyoung](https://github.com/dafeiyoung)提供的[sguclient](https://github.com/dafeiyoung/sguclient)让我有了愉快的网络体验。然而不幸的是在我使用[sguclient](https://github.com/dafeiyoung/sguclient)两年之后学校运营商竟然花费一辆雅阁更新了学校的拨号系统（就是要割大学生的韭菜）。很显然这种行为在我眼里是无法容忍的，咱主打的就是道高一尺魔高一丈。一款用于openwrt（路由器）的程序就此诞生`SGU-RuijieScript（一款基于ua2f交叉编译得到的ipk文件）`就此诞生，感谢[UA2F](https://github.com/Zxilly/UA2F)的作者[Zxilly](https://github.com/Zxilly/UA2F)。 注：本人半个懒癌患者只为高效的解决网络环境（当然各位客官食用起来是否高效我就不得而知了）、同时这也是本人的处女作，所以以下内容不建议小白食用。
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SGU-RuijieScript兼容**韶关学院**所有电信网络，移动网络请移步[sguclient](https://github.com/dafeiyoung/sguclient)。
 ## 严肃警告
 **仅可用于学习目的，本文章使用[CC 4.0 BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)协议授权，大致意思如下：**
